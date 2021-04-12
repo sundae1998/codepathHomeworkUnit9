@@ -1,0 +1,1 @@
+For the Blue site, there is an SQL injection vulnerability. When you select an individual salesperson it gives an id in the url. While the other colors bring you back to the main salespeople page, this one allows you to make database queries. 

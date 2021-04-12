@@ -1,0 +1,1 @@
+For the red site, there is a Cross Site Request Forgery vulnerability. When repeated in Burp Suite, this site allows you unlimited tries to enter password(barring the time lock out). This leaves the site vulnerable to brute force password software and shows improper csrf token use for page logins.

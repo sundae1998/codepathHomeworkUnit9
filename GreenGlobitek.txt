@@ -1,0 +1,2 @@
+For the green Globitek site there is a stored cross site scripting vulnerability. Under the contact option there is an input field where the user is able to enter their name, email and feedback for the site. If put there, a cross site script alert appears when the admin enters the feedback page.
+ 
